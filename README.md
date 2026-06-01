@@ -1,2 +1,4 @@
-# pet-resort-labor-analytics
-An operational data audit optimizing labor distribution and safety metrics in the pet care industry.
+Executive Summary: Labor & Safety Variance Analysis
+The Core Trend: An operational audit reveals severe capacity constraints on Tuesdays and Fridays, which combined account for 83% of all safety incidents over a 15-day period.
+The Human Behavior Narrative: Data spikes on Tuesdays correlate heavily with medical field shift-swaps (12-hour rotations requiring extended pet care). Friday spikes reflect macroeconomic shifts toward hybrid 3-day work weeks, causing a massive influx of pre-travel daycare drop-offs.
+The Recommendation: Corporate pressure to rigidly flat-line labor schedules across the week creates unsafe, unbudgeted ratio breaches (hitting 26:1 on peak Tuesdays). Shifting 8 scheduled labor hours away from slow weekends (Saturday/Sunday) into Tuesday and Friday morning drop-off windows eliminates safety incidents without increasing the total weekly payroll budget.
